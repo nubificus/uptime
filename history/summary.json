@@ -4,10 +4,10 @@
     "url": "https://nubificus.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/nubificus.co.uk.ico",
     "slug": "nubificus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
@@ -15,16 +15,18 @@
     "timeWeek": 144,
     "timeMonth": 132,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 1
+    }
   },
   {
     "name": "S3",
     "url": "https://s3.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/s3.nbfc.io.ico",
     "slug": "s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.89%",
@@ -34,6 +36,7 @@
     "timeMonth": 569,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-10-24": 13,
       "2023-10-03": 8,
       "2023-09-24": 7,
@@ -45,9 +48,9 @@
     "url": "https://owncloud.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/owncloud.nbfc.io.ico",
     "slug": "owncloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.30%",
@@ -57,6 +60,7 @@
     "timeMonth": 918,
     "timeYear": 964,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-10-24": 27,
       "2023-10-03": 169,
       "2023-09-24": 359,

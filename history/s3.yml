@@ -1,7 +1,7 @@
 url: https://s3.nbfc.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-05T08:40:55.049Z
+status: up
+code: 200
+responseTime: 1446
+lastUpdated: 2023-12-05T08:47:37.996Z
 startTime: 2023-09-01T22:06:46.228Z
 generator: Upptime <https://github.com/upptime/upptime>

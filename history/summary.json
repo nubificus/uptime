@@ -4,9 +4,9 @@
     "url": "https://nubificus.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/nubificus.co.uk.ico",
     "slug": "nubificus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 125,
     "timeYear": 132,
     "dailyMinutesDown": {
+      "2023-12-11": 0,
       "2023-11-09": 7
     }
   },

@@ -6,14 +6,14 @@
     "slug": "nubificus",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 156,
-    "timeDay": 159,
-    "timeWeek": 170,
-    "timeMonth": 214,
+    "timeDay": 55,
+    "timeWeek": 142,
+    "timeMonth": 206,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2025-03-04": 9,
@@ -30,15 +30,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.nbfc.io.ico",
     "slug": "s3",
     "status": "up",
-    "uptime": "65.69%",
-    "uptimeDay": "99.43%",
+    "uptime": "65.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "97.65%",
-    "time": 623,
-    "timeDay": 676,
-    "timeWeek": 675,
-    "timeMonth": 683,
+    "uptimeYear": "98.20%",
+    "time": 624,
+    "timeDay": 638,
+    "timeWeek": 680,
+    "timeMonth": 682,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2025-03-04": 8,
@@ -64,8 +64,7 @@
       "2024-05-14": 7,
       "2024-03-26": 6,
       "2024-03-08": 2839,
-      "2024-03-07": 2880,
-      "2024-03-06": 2880
+      "2024-03-07": 2880
     }
   },
   {
@@ -74,15 +73,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/owncloud.nbfc.io.ico",
     "slug": "owncloud",
     "status": "up",
-    "uptime": "62.76%",
-    "uptimeDay": "99.46%",
+    "uptime": "62.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "96.57%",
+    "uptimeYear": "97.39%",
     "time": 991,
-    "timeDay": 1150,
-    "timeWeek": 1022,
-    "timeMonth": 1084,
+    "timeDay": 990,
+    "timeWeek": 1026,
+    "timeMonth": 1080,
     "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-03-04": 8,
@@ -104,8 +103,7 @@
       "2024-04-08": 10,
       "2024-03-26": 6,
       "2024-03-08": 4258,
-      "2024-03-07": 4320,
-      "2024-03-06": 4320
+      "2024-03-07": 4320
     }
   }
 ]

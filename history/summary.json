@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 163,
-    "timeWeek": 151,
-    "timeMonth": 183,
+    "time": 180,
+    "timeDay": 294,
+    "timeWeek": 176,
+    "timeMonth": 185,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-03-04": 9
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.nbfc.io.ico",
     "slug": "s3",
     "status": "up",
-    "uptime": "77.01%",
+    "uptime": "77.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 665,
-    "timeDay": 826,
-    "timeWeek": 697,
+    "timeDay": 691,
+    "timeWeek": 679,
     "timeMonth": 728,
     "timeYear": 667,
     "dailyMinutesDown": {
@@ -46,8 +46,7 @@
       "2025-03-16": 8,
       "2025-03-13": 19,
       "2025-03-04": 8,
-      "2024-12-17": 10,
-      "2024-12-05": 10
+      "2024-12-17": 10
     }
   },
   {
@@ -56,15 +55,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/owncloud.nbfc.io.ico",
     "slug": "owncloud",
     "status": "up",
-    "uptime": "75.04%",
+    "uptime": "75.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1085,
-    "timeDay": 1166,
-    "timeWeek": 1763,
-    "timeMonth": 1284,
+    "timeDay": 957,
+    "timeWeek": 1713,
+    "timeMonth": 1281,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2025-07-30": 470,
@@ -74,8 +73,7 @@
       "2025-03-27": 40,
       "2025-03-16": 8,
       "2025-03-13": 12,
-      "2025-03-04": 8,
-      "2024-12-05": 9
+      "2025-03-04": 8
     }
   }
 ]

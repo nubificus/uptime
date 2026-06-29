@@ -1,7 +1,7 @@
 url: https://owncloud.nbfc.io
-status: up
-code: 200
-responseTime: 1286
-lastUpdated: 2026-06-28T23:29:27.643Z
+status: down
+code: 502
+responseTime: 486
+lastUpdated: 2026-06-29T17:09:27.375Z
 startTime: 2023-09-01T22:06:47.367Z
 generator: Upptime <https://github.com/upptime/upptime>

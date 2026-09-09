@@ -13,8 +13,8 @@
     "time": 215,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 239,
-    "timeYear": 226,
+    "timeMonth": 235,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.nbfc.io.ico",
     "slug": "s3",
     "status": "up",
-    "uptime": "82.78%",
+    "uptime": "82.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -31,8 +31,8 @@
     "time": 657,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 627,
-    "timeYear": 654,
+    "timeMonth": 622,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2026-08-12": 20,
       "2026-07-26": 107,
@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/owncloud.nbfc.io.ico",
     "slug": "owncloud",
     "status": "up",
-    "uptime": "81.19%",
+    "uptime": "81.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.03%",
@@ -60,7 +60,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1022,
-    "timeYear": 1081,
+    "timeYear": 1080,
     "dailyMinutesDown": {
       "2026-08-27": 843,
       "2026-08-12": 20,

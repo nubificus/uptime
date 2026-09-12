@@ -13,7 +13,7 @@
     "time": 215,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 226,
+    "timeMonth": 223,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s3.nbfc.io.ico",
     "slug": "s3",
     "status": "up",
-    "uptime": "82.83%",
+    "uptime": "82.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -31,7 +31,7 @@
     "time": 657,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 637,
+    "timeMonth": 639,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2026-08-12": 20,
@@ -41,8 +41,7 @@
       "2026-07-05": 33,
       "2026-04-09": 114,
       "2026-01-26": 11,
-      "2026-01-04": 6,
-      "2025-09-12": 6
+      "2026-01-04": 6
     }
   },
   {
@@ -51,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/owncloud.nbfc.io.ico",
     "slug": "owncloud",
     "status": "up",
-    "uptime": "81.24%",
+    "uptime": "81.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.03%",
@@ -59,7 +58,7 @@
     "time": 1082,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1035,
+    "timeMonth": 1040,
     "timeYear": 1080,
     "dailyMinutesDown": {
       "2026-08-27": 843,
